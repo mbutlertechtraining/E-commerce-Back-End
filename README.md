@@ -33,6 +33,7 @@ Enter PW when prompted
 
 source db/schema.sql
 
+https://github.com/mbutlertechtraining/E-commerce-Back-End.git
 quit
 
 npm run seed
